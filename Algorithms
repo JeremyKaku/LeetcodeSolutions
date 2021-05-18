@@ -26,7 +26,7 @@ Input: accounts = [[2,8,7],[7,1,3],[1,9,5]]
 Output: 17
 
 C#:
-One-Line LINQ Solution
+1.One-Line LINQ Solution
 
  public class Solution
         {
